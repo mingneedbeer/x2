@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mingneedbeer/x2/compare/v2.1.0...v2.2.0) (2026-04-24)
+
+
+### Features
+
+* add x2 CLI command for component generation ([38408fb](https://github.com/mingneedbeer/x2/commit/38408fb2e8cde7d185f4adeaeeda69cbab5e22ee))
+
 # [2.1.0](https://github.com/mingneedbeer/x2/compare/v2.0.2...v2.1.0) (2026-04-24)
 
 
