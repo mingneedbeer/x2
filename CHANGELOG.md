@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/mingneedbeer/x2/compare/v2.2.0...v2.2.1) (2026-04-24)
+
+
+### Bug Fixes
+
+* resolve CLI execution error when installed globally ([1f94122](https://github.com/mingneedbeer/x2/commit/1f94122c85f13d8cfa4270986f2f6cfe21473511))
+
 # [2.2.0](https://github.com/mingneedbeer/x2/compare/v2.1.0...v2.2.0) (2026-04-24)
 
 

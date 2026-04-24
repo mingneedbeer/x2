@@ -4,7 +4,7 @@
     "access": "public"
   },
   "private": false,
-  "version": "2.2.0",
+  "version": "2.2.1",
   "type": "module",
   "bin": {
     "x2": "./dist/cli/x2.js"
