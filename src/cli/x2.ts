@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const packageJsonPath = join(__dirname, '..', 'package.json');
+const packageJsonPath = join(__dirname, '..', '..', 'package.json');
 const packageJson = JSON.parse(readFileSync(packageJsonPath, 'utf-8'));
 
 async function main(): Promise<void> {
@@ -49,7 +49,7 @@ Examples:
     }
 
     try {
-      const { generateComponent } = await import('../src/cli/generator.ts');
+      const { generateComponent } = await import('./generator.js');
       const componentName = args[1];
       const force = args.includes('--force');
       await generateComponent(componentName, force);

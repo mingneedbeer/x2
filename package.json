@@ -7,7 +7,7 @@
   "version": "2.2.0",
   "type": "module",
   "bin": {
-    "x2": "./bin/x2.ts"
+    "x2": "./dist/cli/x2.js"
   },
   "scripts": {
     "dev": "vite",
