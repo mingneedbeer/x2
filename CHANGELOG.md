@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/mingneedbeer/x2/compare/v2.0.2...v2.1.0) (2026-04-24)
+
+
+### Features
+
+* Bump version from 1.0.2 to 2.0.2 ([7d4c40a](https://github.com/mingneedbeer/x2/commit/7d4c40ab7427945a67a46207df99825a549a364f))
+
 # 1.0.0 (2026-04-24)
 
 
