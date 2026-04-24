@@ -1,5 +1,8 @@
 {
-  "name": "x2",
+  "name": "@yourorg/x2",
+  "publishConfig": {
+    "access": "public"
+  },
   "private": false,
   "version": "1.0.0",
   "type": "module",
